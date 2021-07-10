@@ -1,0 +1,72 @@
+[
+    [
+    {"value": 'ACE', "suit": 'DIAMONDS'},
+    {"value": 'KING', "suit": 'DIAMONDS'},
+    {"value": 'QUEEN', "suit": 'DIAMONDS'},
+    {"value": 'JACK', "suit": 'DIAMONDS'},
+    {"value": 'JACK', "suit": 'DIAMONDS'}
+],
+[
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''}
+],
+[
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''}
+],
+[
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''}
+],
+[
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''}
+],
+[
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''}
+],
+[
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''}
+],
+[
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''}
+],
+[
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''}
+],
+[
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''},
+    {"value": '', "suit": ''}
+]
+]
